@@ -12,9 +12,9 @@
 
       <div class="flex gap-3 flex-1 justify-end ">
         <i
-          class="fa-solid fa-circle-exclamation text-xl hover: text-weather-secondary duration-150 cursor-pointer"
+          class="fa-solid fa-circle-exclamation text-xl hover:text-weather-secondary duration-150 cursor-pointer"
         ></i>
-        <i class="fa-solid fa-plus style="color:#ffffff;" text-xl hover: text-weather-secondary"></i>
+        <i class="fa-solid fa-plus text-xl hover:text-weather-secondary duration-150 cursor-pointer"></i>
       </div>
     </nav>
   </header>
